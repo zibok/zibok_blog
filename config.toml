@@ -1,4 +1,26 @@
 baseURL = 'https://blog.zibok.org/'
 languageCode = 'fr-fr'
 title = 'Z comme Zibok'
-theme = 'ananke'
+theme = 'hugo-theme-stack'
+
+[Params.Sidebar]
+avatar.src = 'img/logo_zibok_150x150.png'
+
+
+[[Menu.social]]
+identifier = 'github'
+name = 'GitHub'
+url = 'https://github.com/zibok'
+params.icon = 'brand-github'
+
+[[Menu.social]]
+identifier = 'twitter'
+name = 'Twitter'
+url = 'https://twitter.com/neozibok'
+params.icon = 'brand-twitter'
+
+[[Menu.social]]
+identifier = 'mastodon'
+name = 'Mastodon'
+url = 'https://pouet.chapril.org/@zibok'
+params.icon = 'brand-mastodon'
