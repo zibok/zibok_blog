@@ -1,7 +1,6 @@
 ---
 title: "A propos de moi"
 date: 2023-02-07T20:27:54+01:00
-draft: true
 menu: 
     main:
         weight: -90
@@ -23,7 +22,7 @@ de leur métier et leur domaine de compétence. Du coup c'est enregistré, et vo
 (ça s'appelle [Deez is la Tech](https://shows.acast.com/deez-is-la-tech) et ça se trouve sur toutes les bonnes plateformes de podcast).
 
 D'autre part, je fais de la musique électronique. J'ai débuté en 2020 et je tente des trucs. J'essaie de
-ne travailler qu'avec des logiciels libres. J'ai déjà créé quelques morceaux, mais je suis encore un noob
+ne travailler qu'avec des logiciels libres. J'ai déjà créé [quelques morceaux](https://soundcloud.com/zibok), mais je suis encore un noob
 et j'ai encore une grosse marge de progression.
 
-En tout cas, qui que vous soyez, soyez le/la bienvenu.e !
+En tout cas, qui que vous soyez, soyez les bienvenu·e·s !
