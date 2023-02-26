@@ -9,6 +9,10 @@ mainSections = [ "tech", "music" ]
 [Params.Sidebar]
 avatar.src = 'img/logo_zibok_150x150.png'
 
+[Params.colorScheme]
+toggle = false
+default = 'dark'
+
 [[Menu.social]]
 identifier = 'github'
 name = 'GitHub'
