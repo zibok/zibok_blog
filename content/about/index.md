@@ -14,6 +14,8 @@ Bonjour le monde !
 
 Moi, c'est Zibok. Bien sûr que c'est un pseudo ! En réalité, mes parents m'ont appelé Vincent.
 
+![Ca c'est moi !](zibok.png)
+
 J'ai plusieurs facettes.
 
 D'une part, je travaille dans le développement logiciel, orienté plutôt back-end.
@@ -24,5 +26,7 @@ de leur métier et leur domaine de compétence. Du coup c'est enregistré, et vo
 D'autre part, je fais de la musique électronique. J'ai débuté en 2020 et je tente des trucs. J'essaie de
 ne travailler qu'avec des logiciels libres. J'ai déjà créé [quelques morceaux](https://soundcloud.com/zibok), mais je suis encore un noob
 et j'ai encore une grosse marge de progression.
+
+Et évidemment, mes origines ch'timis m'ont donné un goût prononcé pour la bonne bière (l'abus d'alcool est dangereux pour la santé, toussa toussa...).
 
 En tout cas, qui que vous soyez, soyez les bienvenu·e·s !
