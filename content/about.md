@@ -3,7 +3,7 @@ title: "A propos de moi"
 date: 2023-02-07T20:27:54+01:00
 menu: 
     main:
-        weight: -90
+        weight: 90
         params:
             icon: user
 ---
