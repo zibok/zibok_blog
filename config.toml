@@ -30,3 +30,8 @@ identifier = 'mastodon'
 name = 'Mastodon'
 url = 'https://pouet.chapril.org/@zibok'
 params.icon = 'brand-mastodon'
+
+[Params.defaultImage.opengraph]
+enabled = true
+local = true
+src = 'img/logo_zibok_150x150.png'
