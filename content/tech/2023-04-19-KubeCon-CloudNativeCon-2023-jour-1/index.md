@@ -68,3 +68,4 @@ Le talk est donc très *opinionated* et donne une saveur de boîte qui se sent m
 
 La suite demain. Cheers !
 
+![Zibok et une bière](zibok-biere.jpg)
