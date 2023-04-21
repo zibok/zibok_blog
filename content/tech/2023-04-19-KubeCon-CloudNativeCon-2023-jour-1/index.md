@@ -7,6 +7,7 @@ image: entree-kubecon.png
 Cet article fait partie d'une suite d'articles concernant la KubeCon+CloudNativeCon Europe 2023:
 * Jour 1 (vous êtes ici !)
 * [Jour 2]({{< relref "tech/2023-04-20-KubeCon-CloudNativeCon-2023-jour-2" >}})
+* [Jour 3]({{< relref "tech/2023-04-21-KubeCon-CloudNativeCon-2023-jour-3" >}})
 
 Cette année, j'ai la chance de pouvoir assister pour la première fois à la grand messe européenne de la CNCF : la KubeCon+CloudNativeCon Europe 2023.
 

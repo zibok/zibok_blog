@@ -7,6 +7,7 @@ image: entree-kubecon.png
 Cet article fait partie d'une suite d'articles concernant la KubeCon+CloudNativeCon Europe 2023:
 * [Jour 1]({{< relref "tech/2023-04-19-KubeCon-CloudNativeCon-2023-jour-1" >}})
 * Jour 2 (vous êtes ici !)
+* [Jour 3]({{< relref "tech/2023-04-21-KubeCon-CloudNativeCon-2023-jour-3" >}})
 
 Pour ce jour 2, je me suis équipé du T-shirt officiel de l'événement que je trouve très réussi. Bravo à l'organisation !
 
