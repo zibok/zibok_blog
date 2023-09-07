@@ -29,3 +29,6 @@ params.icon = 'brand-mastodon'
 enabled = true
 local = true
 src = 'img/logo_zibok_150x150.png'
+
+[markup.goldmark.renderer]
+unsafe = true
