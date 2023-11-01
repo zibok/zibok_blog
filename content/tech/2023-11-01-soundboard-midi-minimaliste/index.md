@@ -1,7 +1,7 @@
 ---
 title: "Soundboard MIDI minimaliste pour Linux"
 date: 2023-11-01T00:00:00+02:00
-image: m-audio-oxygen-pro-mini.png
+image: pipewire-config.png
 ---
 
 # Mon petit vice
