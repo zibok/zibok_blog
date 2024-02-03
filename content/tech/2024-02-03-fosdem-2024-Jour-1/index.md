@@ -79,7 +79,7 @@ A voir si c'est mieux que `wire` de Google (qui m'a laissé un peu déçu par le
 
 # Putting an end to Makefiles in go projects with GoReleaser - Denis GERMAIN
 
-**Disclaimer:** je ne vais pas être objectif, car Denis est un collègue. Vous le connaissez peut-être pour [son blog](https://blog.zwindler.fr). Et vous le connaissez sans doute parce que nous avons fait [un épisode de Deez is la tech](content/tech/2023-03-08-deez-is-la-tech) ensemble 😄
+**Disclaimer:** je ne vais pas être objectif, car Denis est un collègue. Vous le connaissez peut-être pour [son blog](https://blog.zwindler.fr). Et vous le connaissez sans doute parce que nous avons fait [un épisode de Deez is la tech](tech/2023-03-08-deez-is-la-tech) ensemble 😄
 
 Denis est historiquement un "ops" qui s'est mis au développement Go, et qui a découvert [GoReleaser](https://goreleaser.com/) pour gérer la mise à disposition de ses artefacts de release.
 
