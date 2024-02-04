@@ -4,6 +4,11 @@ date: 2024-01-03T19:00:00+01:00
 image: "fosdem-ulb.png"
 ---
 
+Cet article fait partie d'une série d'articles concernant le FOSDEM 2024.
+* Jour 1 (Vous êtes ici ! 🎯)
+* [Jour 2]({{< relref "tech/2024-02-04-fosdem-2024-Jour-2">}})
+
+
 Comme chaque année en février, Bruxelles devient la capitale européenne du logiciel libre.
 
 Le [FOSDEM 2024](https://fosdem.org/2024/) a lieu comme à l'accoutumée sur le campus de l'ULB (Université Libre de Bruxelles) et regroupe un nombre démentiel de participants.
