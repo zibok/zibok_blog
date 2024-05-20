@@ -6,6 +6,9 @@ theme = 'hugo-theme-stack'
 [Params]
 mainSections = [ "tech", "music" ]
 
+[Params.Article]
+license.enabled = true
+
 [Params.Sidebar]
 avatar.src = 'img/logo_zibok_150x150.png'
 
