@@ -10,7 +10,7 @@ OpenTelemetry s’occupe de 3 types de signaux : les métriques, les logs et les
 
 Je n'irai pas plus loin sur ce qu'est OpenTelemetry car il y a masse d'articles et de talks, en français et en anglais sur ce sujet.
 
-L’objectif ici est de déterminer l'effort nécessaire pour passe de 0 à tracing distribué sur les applications écrites sur chacun des langages cités plus haut et tournant sur un cluster Kubernetes hébergé on-premise (point d’AKS, EKS, GKE ou tout autre cluster kubernetes managé ici). On aura juste installé au préalable une solution de stockage des traces (par exemple [Tempo de Grafana Labs](https://grafana.com/docs/tempo/latest/) dans mon cas, mais peu importe, le but étant de pouvoir requêter pour vérifier que l’on a bien les traces avec les spans de toutes les applications traversées par la requête originale).
+L’objectif ici est de déterminer l'effort nécessaire pour passer de 0 à tracing distribué sur les applications écrites sur chacun des langages cités plus haut et tournant sur un cluster Kubernetes hébergé on-premise (point d’AKS, EKS, GKE ou tout autre cluster kubernetes managé ici). On aura juste installé au préalable une solution de stockage des traces (par exemple [Tempo de Grafana Labs](https://grafana.com/docs/tempo/latest/) dans mon cas, mais peu importe, le but étant de pouvoir requêter pour vérifier que l’on a bien les traces avec les spans de toutes les applications traversées par la requête originale).
 
 Autre point, sur le cluster est installé [l’opérateur OpenTelemetry](https://opentelemetry.io/docs/kubernetes/operator/) afin de bénéficier des CRD OpenTelemetry Collector et Instrumentation pour les langages supportés (et donc... pas PHP).
 
