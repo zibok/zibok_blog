@@ -18,7 +18,10 @@ Ca marche plutôt bien, mais j'ai rapidement eu envie de rajouter des animtions 
 * afficher le texte ou les éléments progressivement
 * faire de vrais animations pour appuyer la logique de certaines transitions de slides.
 
-Et même pour un développeur aussi doué que moi en Frontend (si on compte les points en négatif évidemment 😅), c'est assez facile de décrire en HTML les éléments que l'on veut animer : il suffit de faire les slides avant et après, d'indiquer quelle forme de la slide "avant" correspond à quelle forme de la slide "après" et le framework fait le boulot de transition tout seul !
+Et même pour un développeur aussi doué que moi en Frontend (si on compte les points en négatif évidemment 😅), c'est assez facile de décrire en HTML les éléments que l'on veut animer :
+
+* pour afficher des éléments progressivement, une simple classe CSS suffit
+* pour des animations plus complexes, il suffit de faire les slides avant et après, d'indiquer quelle forme de la slide "avant" correspond à quelle forme de la slide "après" et le framework fait le boulot de transition tout seul !
 
 Le résultat est vraiment pas mal pour selon que ce n'est pas long à mettre en place.
 
