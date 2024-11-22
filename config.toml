@@ -22,6 +22,12 @@ name = 'Mastodon'
 url = 'https://pouet.chapril.org/@zibok'
 params.icon = 'brand-mastodon'
 
+[[Menu.social]]
+identifier = 'github'
+name = 'GitHub'
+url = 'https://github.com/zibok'
+params.icon = 'brand-github'
+
 [Params.defaultImage.opengraph]
 enabled = true
 local = true
