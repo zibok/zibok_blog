@@ -17,12 +17,6 @@ toggle = false
 default = 'dark'
 
 [[Menu.social]]
-identifier = 'twitter'
-name = 'Twitter'
-url = 'https://twitter.com/neozibok'
-params.icon = 'brand-twitter'
-
-[[Menu.social]]
 identifier = 'mastodon'
 name = 'Mastodon'
 url = 'https://pouet.chapril.org/@zibok'
