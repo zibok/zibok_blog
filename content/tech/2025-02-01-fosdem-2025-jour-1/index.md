@@ -4,6 +4,11 @@ date: 2025-02-01T19:00:00+01:00
 image: "fosdem2025-tshirt.png"
 ---
 
+Cet article fait partie d'une série d'articles concernant le FOSDEM 2025.
+* Jour 1 (Vous êtes ici ! 🎯)
+* [Jour 2]({{< relref "tech/2025-02-02-fosdem-2025-jour-2">}})
+
+
 Comme chaque année, le monde de l'open-source et du logiciel libre se retrouve à Bruxelles pour un week-end de conférences et de rencontres.
 
 Bières, frites et talks techniques sont au programme de ces deux jours, plus de 70 tracks sur des sujets aussi variés que des langages (Go, Javascript, Rust, Python,...), des domaines d'intéret publiques (Transports publics, data analytics, monitoring,...), des outils (LibreOffice, GIMP, Postgresql,...) et des keynotes sur des domaines plus larges parfois.
