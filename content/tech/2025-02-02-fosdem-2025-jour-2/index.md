@@ -1,6 +1,6 @@
 ---
 title: "FOSDEM 2025 - Jour 2"
-date: 2025-02-02T19:00:00+01:00
+date: 2025-02-02T18:42:00+01:00
 image: "fosdem2025-tshirt.png"
 ---
 
