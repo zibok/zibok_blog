@@ -16,7 +16,7 @@ Je vous propose un retour sur l'infime partie des talks auxquels j'ai eu la chan
 
 ![Le comité d'accueil de la devroom Go 2025](devroom-go-accueil.png)
 
-Comme l'accoutumée, en commence dans la devroom Go avec les dernières nouvelles du langage et de la communauté. Maartje arbore sa désormais célèbre robe aux gophers. On est en terrain connu.
+Comme l'accoutumée, on commence dans la devroom Go avec les dernières nouvelles du langage et de la communauté. Maartje arbore sa désormais célèbre robe aux gophers. On est en terrain connu.
 
 ![Premier slide de The state of Go](state-of-go.png)
 
