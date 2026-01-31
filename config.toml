@@ -2,6 +2,7 @@ baseURL = 'https://blog.zibok.org/'
 languageCode = 'fr-fr'
 title = 'Z comme Zibok'
 theme = 'hugo-theme-stack'
+enableEmoji = true
 
 [Params]
 mainSections = [ "tech", "music" ]
