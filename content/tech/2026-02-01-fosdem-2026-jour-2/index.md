@@ -7,6 +7,7 @@ image: "libres-ensemble.webp"
 Cet article fait partie d'une série d'articles concernant le FOSDEM 2026.
 * [Jour 1]({{< relref "tech/2026-01-31-fosdem-2026-jour-1">}})
 * Jour 2 (Vous êtes ici ! 🎯)
+* [BONUS]({{< relref "tech/2026-02-02-fosdem-2026-quelques-photos">}})
 
 Ce second jour de conférence a été pour moi constitué de 2 parties&nbsp;: d'abord en devroom Go pour quelques talks intéressants (dont le traditionnel "State of Go" de Maartje) puis en main track pour une série de talks sur le Cyber Resiliency Act dont, soyons honnête, je n'avais pas trop entendu parler jusque là mais qui va potentiellement avoir un impact important sur la gestion de la cubersécurité des entreprises et dans l'open-source.
 

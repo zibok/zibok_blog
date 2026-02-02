@@ -7,6 +7,7 @@ image: "libres-ensemble.webp"
 Cet article fait partie d'une série d'articles concernant le FOSDEM 2026.
 * Jour 1 (Vous êtes ici ! 🎯)
 * [Jour 2]({{< relref "tech/2026-02-01-fosdem-2026-jour-2">}})
+* [BONUS]({{< relref "tech/2026-02-02-fosdem-2026-quelques-photos">}})
 
 
 Comme chaque année, Bruxelles devient pour le week-end la capitale du monde (du logiciel) libre !
