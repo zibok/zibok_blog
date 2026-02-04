@@ -26,7 +26,7 @@ Michiel revient sur l'histoire qui nous a amené à cette situation depuis la fi
 
 Dommage car le sujet est effectivement intéressant et mériterait sans doute des réflexions plus approfondies. Peut-être est-ce encore un peu tôt.
 
-# [Tending the Herd: Community at Mastodon - Hannah Aubry & Andy ??? ](https://fosdem.org/2026/schedule/event/HJYRFF-tending-the-herd/)
+# [Tending the Herd: Community at Mastodon - Hannah Aubry & Andy Piper](https://fosdem.org/2026/schedule/event/HJYRFF-tending-the-herd/)
 
 Un talk qui enfonce le clou sur la volonté et la mission de Mastodon, la vision de l'équipe et les valeurs qu'elle porte.
 
