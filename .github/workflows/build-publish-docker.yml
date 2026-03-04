@@ -37,9 +37,9 @@ jobs:
       - name: Prepare SSH environment
         run: |
           mkdir -p $HOME/.ssh
+          chmod 700 $HOME/.ssh
           echo "${{secrets.DEPLOY_SSH_KEY}}" > $HOME/.ssh/deploy
-          ls -laR $HOME/.ssh
-          chmod -R 600 $HOME/.ssh
+          chmod 600 $HOME/.ssh/deploy
           ssh-keyscan ${{secrets.DEPLOY_HOST}} >> $HOME/.ssh/known_hosts
 
       - name: Trigger compose up for blog
