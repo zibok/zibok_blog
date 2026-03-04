@@ -38,7 +38,7 @@ jobs:
         run: |
           mkdir -p /home/runner/.ssh
           echo "${{secrets.DEPLOY_SSH_KEY}}" > /home/runner/.ssh/deploy
-          chown -R 600 /home/runner/.ssh
+          chmod -R 600 /home/runner/.ssh
           ssh-keyscan ${{secrets.DEPLOY_HOST}} >> /home/runner/.ssh/known_hosts
 
       - name: Trigger compose up for blog
