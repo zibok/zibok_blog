@@ -29,3 +29,17 @@ jobs:
         with:
           push: true
           tags: ghcr.io/zibok/zibok_blog:latest
+
+  trigger-deployment:
+    runs-on: ubuntu-latest
+    needs: build-docker
+    steps:
+      - name: Prepare SSH environment
+        run: |
+          mkdir -p /home/runner/.ssh
+          echo "${{secrets.DEPLOY_SSH_KEY}}" > /home/runner/.ssh/deploy
+          chown -R 600 /home/runner/.ssh
+          ssh-keyscan ${{secrets.DEPLOY_HOST}} >> /home/runner/.ssh/known_hosts
+
+      - name: Trigger compose up for blog
+        run: ssh -i /home/runner/.ssh/deploy ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}} docker compose -f docker/docker-compose.yml up -d --pull always zibok_blog
