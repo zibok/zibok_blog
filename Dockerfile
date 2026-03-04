@@ -1,6 +1,8 @@
-FROM ubuntu:24.04 AS builder
+FROM golang:1.26 AS builder
 
-RUN apt-get update && apt-get install -y hugo
+# Compelled to use extended version because of the Stack theme 
+# which is not compatible with normal version + dart sass
+RUN go install -ldflags '-s -w' -tags extended github.com/gohugoio/hugo@v0.157.0
 
 COPY . /app
 
