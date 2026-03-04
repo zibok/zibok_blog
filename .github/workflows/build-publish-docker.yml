@@ -38,7 +38,7 @@ jobs:
         run: |
           mkdir -p $HOME/.ssh
           echo "${{secrets.DEPLOY_SSH_KEY}}" > $HOME/.ssh/deploy
-          ls -lR $HOME
+          ls -laR $HOME/.ssh
           chmod -R 600 $HOME/.ssh
           ssh-keyscan ${{secrets.DEPLOY_HOST}} >> $HOME/.ssh/known_hosts
 
